@@ -1,6 +1,7 @@
 ## Hello word
 
 You can use the [editor on GitHub](https://github.com/andracio/Test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
 <script> document.cookie = "session=test GDPR"; document.cookie =
 "favorite_task=collect Data"; function alertCookie() { alert(document.cookie); }
 
